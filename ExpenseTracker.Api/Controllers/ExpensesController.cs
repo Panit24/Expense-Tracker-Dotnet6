@@ -67,7 +67,6 @@ public class ExpensesController : ControllerBase
         expense.Category = updated.Category;
 
         await _db.SaveChangesAsync();
-            await _db.SaveChangesAsync();
 
         return Ok(new
         {

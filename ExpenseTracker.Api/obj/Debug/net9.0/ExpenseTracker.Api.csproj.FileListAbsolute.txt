@@ -41,3 +41,4 @@ D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\refint\Ex
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTracker.Api.pdb
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTracker.Api.genruntimeconfig.cache
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ref\ExpenseTracker.Api.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTracker.Api.sourcelink.json
