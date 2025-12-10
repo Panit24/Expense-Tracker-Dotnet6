@@ -42,3 +42,11 @@ D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTr
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTracker.Api.genruntimeconfig.cache
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ref\ExpenseTracker.Api.dll
 D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\obj\Debug\net9.0\ExpenseTracker.Api.sourcelink.json
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\expense-tracker-dotnet\ExpenseTracker.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
