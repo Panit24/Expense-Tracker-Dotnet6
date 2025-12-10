@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExpenseTracker.Api",
+    "\\ExpenseTracker.Api\\Data",
+    "\\ExpenseTracker.Api\\Models",
+    "\\ExpenseTracker.Api\\Properties"
+  ],
+  "SelectedNode": "\\ExpenseTracker.Api\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
